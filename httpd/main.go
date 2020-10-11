@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gin-newsfeeder/httpd/handler"
-	"gin-newsfeeder/platform/newsfeed"
+	"github.com/tkircsi/gin-newsfeeder/httpd/handler"
+	"github.com/tkircsi/gin-newsfeeder/platform/newsfeed"
 
 	"github.com/gin-gonic/gin"
 )

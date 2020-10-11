@@ -1,8 +1,9 @@
 package handler
 
 import (
-	"gin-newsfeeder/platform/newsfeed"
 	"net/http"
+
+	"github.com/tkircsi/gin-newsfeeder/platform/newsfeed"
 
 	"github.com/gin-gonic/gin"
 )
